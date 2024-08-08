@@ -21,13 +21,7 @@ This implementation of Sobel Filter works on 640 by 480 images. The primary appl
 | ![alt text](Reports/Inputs&Matlab_codes/chess.png)     | ![alt text](Reports/Outputs/output_chess.png)       |
 | ![alt text](Reports/Inputs&Matlab_codes/sbl.jpg)|![alt text](Reports/Outputs/output.png)       |
 
-### Area, power, delay statistics:
-- Area Report: https://github.com/sayandeep02/Sobel_filter/blob/master/Reports/Reports/area_stats.txt
 
-
-
-- Power Report: https://github.com/sayandeep02/Sobel_filter/blob/master/Reports/Reports/power_rep.png
-- Delay Report: https://github.com/sayandeep02/Sobel_filter/blob/master/Reports/Reports/delay_stats.txt
 
 
 
