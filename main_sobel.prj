@@ -1,3 +1,0 @@
-verilog work "paradd.v"
-verilog work "core_sobel.v"
-verilog work "main_sobel.v"
